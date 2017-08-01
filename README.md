@@ -4,7 +4,8 @@ Our Remedyforce Plugin has been designed to allow the automatic creation of Reme
 so that you can have both services synchronized. To accomplish this, we use the Salesforce API REST version 39.0 (Spring
 '17).
 
-# What is Remedyforce BMC Remedyforce is a cloud-based IT service management tool, built on the Salesforce App Cloud,
+# What is Remedyforce 
+BMC Remedyforce is a cloud-based IT service management tool, built on the Salesforce App Cloud,
 that enables you to deliver high-speed service management that empowers users and accelerates the business, with minimal
 capital investment.
 
