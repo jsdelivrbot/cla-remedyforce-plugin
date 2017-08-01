@@ -1,0 +1,91 @@
+#: init/remedyforce-plugin-inbound.js
+msgid "Remedyforce Inbound service started"
+msgstr "Servicio Remedyforce Inbound empezado"
+
+#: init/remedyforce-plugin-inbound.js
+msgid "Remedyforce Server undefined. Please choose one."
+msgstr "Servidor Remedyforce no declarado. Por favor seleccione uno"
+
+#: init/remedyforce-plugin-inbound.js init/remedyforce-plugin-outbound.js
+msgid "Missing loginUrl parameter."
+msgstr "Falta el parámetro loginUrl"
+
+#: init/remedyforce-plugin-inbound.js init/remedyforce-plugin-outbound.js
+msgid "Login URL malformed"
+msgstr "Login URL mal formado"
+
+#: init/remedyforce-plugin-inbound.js init/remedyforce-plugin-outbound.js
+msgid "This category has not an associated Remedyforce view"
+msgstr "Esta categoría no tiene asociado Remedyforce view"
+
+#: init/remedyforce-plugin-inbound.js
+msgid "Clarive category not declared"
+msgstr "La categoría de Clarive no está declarada"
+
+#: init/remedyforce-plugin-inbound.js init/remedyforce-plugin-outbound.js
+msgid "Error in synchronizeWhen option."
+msgstr "Error en la opción synchronizeWhen"
+
+#: init/remedyforce-plugin-inbound.js
+msgid "Remedyforce Inbound service finished"
+msgstr "Servicio Remedyforce Inbound finalizado"
+
+#: init/remedyforce-plugin-outbound.js
+msgid "Remedyforce Outbound service started"
+msgstr "Servicio Remedyforce Outbound empezado"
+
+#: init/remedyforce-plugin-outbound.js
+msgid "synchronizeWhen option undefined."
+msgstr "Opcion synchronizeWhen sin definir"
+
+#: init/remedyforce-plugin-outbound.js
+msgid "Remedyforce Server undefined. Please choose one. "
+msgstr "Servidor Remedyforce sin definir. Por favor elija uno"
+
+#: init/remedyforce-plugin-outbound.js
+msgid "Deleted Topic with mid "
+msgstr "Tópico borrado con mid "
+
+#: init/remedyforce-plugin-outbound.js
+msgid "Remedyforce Outbound service finished"
+msgstr "Servicio Remedyforce Outbound finalizado"
+
+#: modules/myutils.js
+msgid "Error to get the fields of the remedy category remotely"
+msgstr "Error al obtener los campos de la categoría de remedy remotamente"
+
+#: public/form/remedyforce-server.js
+msgid "Username"
+msgstr "Usuario"
+
+#: public/form/remedyforce-server.js
+msgid "Password"
+msgstr "Contraseña"
+
+#: public/form/remedyforce-server.js
+msgid "Consumer Key"
+msgstr "Consumer Key"
+
+#: public/form/remedyforce-server.js
+msgid "Security Token"
+msgstr "Security Token"
+
+#: public/form/remedyforce-server.js
+msgid "Consumer Secret"
+msgstr "Consumer Secret"
+
+#: public/form/remedyforce-server.js
+msgid "Login URL"
+msgstr "Login URL"
+
+#: public/form/remedyforce-view.js
+msgid "Clarive Topic Name"
+msgstr "Nombre Clarive Tpico"
+
+#: public/form/remedyforce-view.js
+msgid "Clarive - Remedyforce Field Correspondence"
+msgstr "Clarive - Remedyforce Campo de correspondencia"
+
+#: public/form/remedyforce-view.js
+msgid "Clarive - Remedyforce List Correspondence"
+msgstr "Clarive - Remedyforce Lista de correspondencia"
