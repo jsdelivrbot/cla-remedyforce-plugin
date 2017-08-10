@@ -125,8 +125,9 @@ Service settings:
 - **Remedyforce Server -** server with the user data from Remedyforce that will create the topic in Clarive.
 - **Action -** the action to be performed. It can be Create, Update or Delete.
 
-### Remedyforce Outbound Use this service to perform an action remotely from Clarive. The events must be of type
-"post-offline".
+### Remedyforce Outbound 
+
+Use this service to perform an action remotely from Clarive. The events must be of type "post-offline".
 
 Service settings:
 
