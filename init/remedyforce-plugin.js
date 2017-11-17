@@ -5,7 +5,7 @@ ci.createRole("Remedyforce");
 ci.createClass("RemedyforceServer", {
     form: '/plugin/cla-remedyforce-plugin/form/remedyforce-server.js',
     icon: '/plugin/cla-remedyforce-plugin/icon/remedyforce-ci-server.svg',
-    roles: ["Remedyforce"],
+    roles: ["Remedyforce", "ClariveSE"],
     has: {
         userName: {
             is: "rw",
@@ -44,7 +44,7 @@ ci.createClass("RemedyforceServer", {
 ci.createClass("RemedyforceView", {
     form: '/plugin/cla-remedyforce-plugin/form/remedyforce-view.js',
     icon: '/plugin/cla-remedyforce-plugin/icon/remedyforce-ci-view.svg',
-    roles: ["Remedyforce"],
+    roles: ["Remedyforce", "ClariveSE"],
     has: {
         clariveTopic: {
             is: "rw",

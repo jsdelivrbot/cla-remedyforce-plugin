@@ -4,6 +4,21 @@ reg.register('service.remedyforce_inbound', {
     name: 'Remedyforce Inbound',
     icon: '/plugin/cla-remedyforce-plugin/icon/remedyforce-service.svg',
     form: '/plugin/cla-remedyforce-plugin/form/remedyforce-services-call.js',
+    rulebook: {
+        moniker: 'remedyforce_inbound',
+        description: _('Remedyforce inbound service'),
+        required: ['server', 'synchronize_when'],
+        allow: [ 'server', 'synchronize_when'],
+        mapper: {
+            'synchronize_when':'synchronizeWhen'
+        },
+        examples: [{
+            remedyforce_inbound: {
+                server: 'remedyforce_resource',
+                synchronize_when: 'create'
+            }
+        }]
+    },
     handler: function(ctx, config) {
 
         var ci = require("cla/ci");
