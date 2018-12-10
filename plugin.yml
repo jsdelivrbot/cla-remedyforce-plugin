@@ -1,7 +1,7 @@
 name: Remedyforce Plugin
 description: Our Remedyforce Plugin has been designed to allow the automatic creation of Remedyforce views in Clarive and vice versa, so that you can have both services synchronized.
 version: 1.0
-icon: https://cdn.rawgit.com/clarive/cla-remedyforce-plugin/master/public/icon/remedyforce-service.svg?sanitize=true
+icon: https://cdn.jsdelivr.net/gh/clarive/cla-remedyforce-plugin@master/public/icon/remedyforce-service.svg?sanitize=true
 url: https://github.com/clarive/cla-remedyforce-plugin
 requires:
   - clarive_version: 6.8 <= version

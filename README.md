@@ -1,6 +1,6 @@
 # Remedyforce Plugin
 
-<img src="https://cdn.rawgit.com/clarive/cla-remedyforce-plugin/master/public/icon/remedyforce-service.svg?sanitize=true" alt="Remedyforce Plugin" title="Remedyforce Plugin" width="120" height="120">
+<img src="https://cdn.jsdelivr.net/gh/clarive/cla-remedyforce-plugin@master/public/icon/remedyforce-service.svg?sanitize=true" alt="Remedyforce Plugin" title="Remedyforce Plugin" width="120" height="120">
 
 Our Remedyforce Plugin has been designed to allow the automatic creation of Remedyforce views in Clarive and vice versa,
 so that you can have both services synchronized. To accomplish this, we use the Salesforce API REST version 39.0 (Spring
